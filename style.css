@@ -6,9 +6,15 @@
     margin: 2.5%;
     
 }
+.escuro, .escuro h2{
+    background-color: black;
+    color: white;
+    
+}
 .card{
    width: 500px;
    height: 450px;
+   background-color: rgb(155, 155, 155);
    
 }
 .toma{
@@ -20,7 +26,6 @@
 }
 .clima img{
     width: 50%;
-    
     
 }
 .nameCidade h2{
